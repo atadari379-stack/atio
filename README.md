@@ -1,21 +1,20 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Cool Mice and Keyboards</title>
+    <title>Check This Out! 🚀</title>
 </head>
-<body style="font-family: Arial; background-color: #1a1a1a; color: #ffffff; text-align: center;">
-    <h1>🔥 Gaming Mice and Keyboards 🔥</h1>
-    <p>Welcome to my page about awesome gaming gear!</p>
+<body style="font-family: Arial; background-color: #0d0d0d; color: #ffffff; text-align: center; padding: 50px;">
+    <h1>🔥 Welcome to My Page! 🔥</h1>
+    <p>Here you can see my awesome content and join my community! 😎🎮</p>
 
-    <h2>🎮 Gaming Mice</h2>
-    <p>High-end gaming mice come with ultra-fast sensors, RGB lights, and programmable buttons.  
-    Some popular brands are <b>Logitech G</b>, <b>Razer</b>, and <b>SteelSeries</b>.</p>
+    <p style="font-size: 20px;"⬇️ Click below to come to my YouTube channel! ⬇️</p>
 
-    <h2>⌨️ Gaming Keyboards</h2>
-    <p>Mechanical keyboards are the top choice for gamers.  
-    They offer fast response times, cool RGB effects, and premium build quality.  
-    Brands like <b>Corsair</b>, <b>Razer</b>, and <b>HyperX</b> are very popular.</p>
+    <a href="https://youtube.com/@atio-wars?si=pvWOmVx_1MxDuSyC" target="_blank" 
+       style="display: inline-block; background-color: #ff0000; color: #ffffff; padding: 15px 30px; 
+              text-decoration: none; font-size: 22px; border-radius: 10px; margin-top: 20px;">
+       🎉 Come to My Channel! 🎉
+    </a>
 
-    <p>🚀 If you want the best gaming experience, combine a pro mouse with a mechanical keyboard!</p>
+    <p style="margin-top: 30px; font-size: 18px;">💥 Gaming, Fun, and Epic Stuff Await! 💥</p>
 </body>
 </html>
